@@ -1,0 +1,10 @@
+name: Reports
+version: 1.0-SNAPSHOT
+main: report.main.Main
+api-version: 1.13
+authors: [Christo]
+description: Report plugin for SkySurge
+commands:
+  report:
+  sc:
+  ac:
